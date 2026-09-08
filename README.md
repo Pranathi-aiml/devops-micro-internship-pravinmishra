@@ -14,9 +14,9 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
+| **Name** | Pranathi Kummari|
+| **LinkedIn** | https://www.linkedin.com/in/pranathi-kummari-213641425/ |
+| **Location** | Karimnagar,Telangana |
 | **Background** | Cloud, DevOps & AI Consultant |
 | **Goal** | Train 10,000+ DevOps professionals |
 
