@@ -237,7 +237,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/djHD8V9k
 ```
 
 ---
@@ -254,19 +254,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning basic networking concepts, DNS, and application architecture easy to understand. Using simple examples and diagrams helped me understand the concepts better.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding networking protocols, DNS record types, and the differences between two-tier and three-tier architecture was initially challenging. Creating and organizing the diagrams also required attention to detail.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on improving my practical DevOps skills by practicing Git, GitHub, Linux commands, and other DevOps tools. I will also spend more time doing hands-on exercises.
 
 ---
 
