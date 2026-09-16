@@ -184,7 +184,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/<img width="1920" height="1080" alt="Screenshot (623)" src="https://github.com/user-attachments/assets/e90f181f-0238-4294-b719-078eb0b23b63" />
+)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
