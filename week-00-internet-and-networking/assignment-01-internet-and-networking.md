@@ -246,7 +246,7 @@ https://lnkd.in/p/djHD8V9k
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+## LinkedIn Post Backup Copy
 
 ---
 
