@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/![Uploading Screenshot (622).png…]()
+![Task 1 Screenshot](screenshots/<img width="1920" height="1080" alt="Screenshot (622)" src="https://github.com/user-attachments/assets/a0235e30-6e7a-4b28-acbf-66d078ff2b54" />
 )
 
 
@@ -35,7 +35,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a network protocol is a set of rules that helps devices communicate and exchange data with each other. I understood it better by comparing it to real-life communication, where people follow common rules to understand each other.
+
 
 ---
 
