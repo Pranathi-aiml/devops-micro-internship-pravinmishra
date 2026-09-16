@@ -305,9 +305,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: yes
 
-Add your answer here...
+I wrote down the tasks, goals, worries, pending work, learning plans, and responsibilities that were on my mind. This helped me clear my thoughts and understand what I needed to focus on first.
 
 ---
 
@@ -325,7 +325,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 1 hour of technical learning and project work
+Friday: 1 hour for revision and pending tasks
+Saturday: DMI assignments and internship work
+Sunday: Weekly review and planning for the next week
 
 ---
 
@@ -333,11 +336,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday: 10:00 AM – 12:00 PM
+Sunday: 10:00 AM – 11:00 AM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3 sessions per week
 
 ---
 
@@ -351,7 +355,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away during study and DMI sessions.
+Avoid social media during focus time.
+Study in a quiet and clean environment.
+Complete important tasks before entertainment.
+Take short breaks between focus sessions.
+Keep only the required tabs and applications open while working.
 
 ---
 
@@ -359,28 +368,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can make better progress when I follow a proper routine and complete tasks consistently instead of waiting for motivation.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that I sometimes get distracted by my phone and postpone difficult or important tasks.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday from 7:00 PM to 8:00 PM, I will keep my phone away and focus on DMI work, technical learning, or projects.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0**  
+- Blog / Medium : **https://medium.com/@kummari.pranathi123/week-01-success-mindset-building-my-mindset-os-c08c024e12f7**  
 
 ---
 
