@@ -61,7 +61,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+In computer networking, **packet switching** is a method of sending data by dividing it into small units called packets. These packets can travel through different routes and are reassembled at the destination. Every device connected to a network has an **IP address**, which acts like a unique address used to identify and communicate with that device. **TCP/IP** is a set of networking protocols that controls how data is divided, addressed, transmitted, routed, and received across networks such as the Internet. **HTTP** (HyperText Transfer Protocol) is used to transfer web pages and other information between a web browser and a server. **HTTPS** is the secure version of HTTP, which encrypts data to protect sensitive information such as passwords and payment details. Together, these technologies enable reliable and secure communication over the Internet.
+
 
 ---
 
