@@ -150,14 +150,33 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 > **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
 
 ## Your Article
+My 2.0 Version — A Story From the Future
 
-Add your answer here...
+It was 2030, and looking back at the previous few years, Pranathi’s journey had changed in ways she had once found difficult to imagine. She had started as a college student who was still discovering programming, Artificial Intelligence, and DevOps. She did not have all the answers in the beginning, but she gradually built her skills through practice, projects, internships, and continuous learning.
+
+During her journey, she built and shipped practical projects in AI and software development. She worked on an AI chatbot, a language translation tool, and web application projects. These projects gave her experience with development, debugging, authentication, databases, application architecture, and deployment.
+
+Her GitHub portfolio became proof of her technical growth. She regularly published project work, maintained repositories, and documented her progress. What had once been a beginner’s collection of code had gradually become a portfolio that represented her practical experience.
+
+She also earned internship experience and technical certifications. Her Artificial Intelligence internship introduced her to AI-based applications and practical problem-solving. Later, her DevOps internship helped her understand Git, GitHub, Linux, networking, application architecture, and development workflows.
+
+As her confidence increased, Pranathi began publishing technical blogs about the concepts and tools she learned. Her articles covered areas such as Internet and Networking, DNS, application architecture, and DevOps. Writing helped her improve both her technical understanding and communication skills.
+
+She also contributed to collaborative projects and technical communities. She participated in team activities, shared her knowledge with other beginners, and helped them understand tools and concepts that she had learned through her own experience. These activities gradually strengthened her teamwork and leadership skills.
+
+By 2030, Pranathi had earned a role in the technology industry. She worked on real-world projects, collaborated with development teams, solved technical problems, and contributed to software development workflows. Her academic degree was only one part of her professional identity; her projects, GitHub portfolio, internships, certifications, blogs, and practical experience showed the bigger picture.
+
+The most important change, however, had been her mindset. Earlier, an unfamiliar error could make her feel stuck. Later, she learned to investigate the problem, search for solutions, experiment, and try again.
+
+Her journey had shown that becoming successful did not happen through one big achievement. It happened through many small improvements repeated over time.
+
+Pranathi 2.0 was built through learning, building, failing, contributing, and improving. The beginner who once asked “How do I start?” had eventually become a professional who knew how to learn, solve problems, and build things.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://lnkd.in/p/dAGmasTD`
 
 ---
 
@@ -189,7 +208,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilty and stressed because I knew that taking a shortcut was not the right thing to do. At first, I felt relieved because I completed the task quickly, but that feeling did not last long. I kept thinking about whether I had been honest with myself and others. It made me realize that shortcuts may save time for the moment, but they can also create guilt, fear, and regret. Since then, I have understood that doing something honestly, even if it takes more time, gives me much more confidence and peace of mind.
 
 ---
 
