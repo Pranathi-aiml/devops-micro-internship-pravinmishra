@@ -55,11 +55,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces better results than relying only on motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried studying and working on my technical skills only when I felt motivated, and I noticed that my progress was irregular.
+When I started working on my tasks regularly, even for a short amount of time, I was able to complete more work and understand concepts better.
+This showed me that regular effort gives more consistent results than waiting for motivation.
 
 ---
 
@@ -67,11 +69,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Practical experience exposes gaps in knowledge that theory alone does not reveal.
 
 ### Evidence from my life
 
-Add your answer here...
+While learning technical concepts, I initially felt that understanding the theory was enough.
+When I started actually working with tools such as VS Code, GitHub, and projects, I encountered problems that I could not understand immediately.
+Solving those problems showed me exactly what I knew and what I still needed to learn.
 
 ---
 
@@ -79,11 +83,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Making mistakes during practice is part of learning a skill.
 
 ### Evidence from my life
 
-Add your answer here...
+While working on technical projects and assignments, I made mistakes and faced errors that I did not know how to fix at first.
+Instead of stopping, I tried different solutions and learned from the errors.
+After solving them, I understood the concepts more clearly than I did when I had only studied them theoretically.
 
 ---
 
