@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅ Completed  | ✅ Solved | https://lnkd.in/p/djHD8V9k| https://medium.com/@kummari.pranathi123/week-00-internet-and-networking-my-devops-learning-journey-e4b7ad30cbbc|
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed |✅ Solved | https://lnkd.in/p/dYvm92yQ | https://medium.com/@kummari.pranathi123/week-01-success-mindset-building-my-mindset-os-c08c024e12f7?sharedUserId=kummari.pranathi123 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
