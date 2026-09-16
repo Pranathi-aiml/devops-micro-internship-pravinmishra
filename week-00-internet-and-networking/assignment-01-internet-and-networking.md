@@ -98,7 +98,7 @@ Save your diagram image in the `screenshots` folder and update the file name bel
 )
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
+Replace `` with your actual diagram file name.
 
 ---
 
