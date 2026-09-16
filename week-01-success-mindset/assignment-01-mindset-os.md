@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that being good at something is more important than having a high score or a perfect degree. Many people around me believe that getting high marks and a good degree is the main path to success. I think marks are important, but they don't decide how far a person can go. Real skills, consistency, curiosity, and the willingness to learn from mistakes matter more in the long run. I also believe that it is completely okay to start learning something late or to be bad at it in the beginning. What matters is continuing to improve instead of comparing your journey with others.
 
 ---
 
