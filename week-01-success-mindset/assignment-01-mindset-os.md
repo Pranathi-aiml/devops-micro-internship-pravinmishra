@@ -382,7 +382,7 @@ Every weekday from 7:00 PM to 8:00 PM, I will keep my phone away and focus on DM
 
 Paste your LinkedIn post link here:
 
-`https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0`
+https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
