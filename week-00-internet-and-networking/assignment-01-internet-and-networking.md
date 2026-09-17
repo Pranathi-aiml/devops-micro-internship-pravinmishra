@@ -236,8 +236,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
-https://lnkd.in/p/djHD8V9k
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-devopsinternship-dmi-activity-7505878392832094208-yQ-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 ```
 
 ---
