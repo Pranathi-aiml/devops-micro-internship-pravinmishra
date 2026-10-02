@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-devopsinternship-dmi-activity-7505878392832094208-yQ-0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0|https://medium.com/@kummari.pranathi123/week-00-internet-and-networking-my-devops-learning-journey-e4b7ad30cbbc|
 | 01 | Success Mindset | ✅ Completed |✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0 | https://medium.com/@kummari.pranathi123/week-01-success-mindset-building-my-mindset-os-c08c024e12f7|
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code |✅ Completed | ✅ Solved |https://lnkd.in/p/gmKCRFdP | https://medium.com/@kummari.pranathi123/building-your-command-center-with-claude-skills-terraform-c56f803794e6?sharedUserId=kummari.pranathi123 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
