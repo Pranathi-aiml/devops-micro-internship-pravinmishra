@@ -115,7 +115,9 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`## GitHub Repository URL
+
+https://github.com/Pranathi-aiml/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 
