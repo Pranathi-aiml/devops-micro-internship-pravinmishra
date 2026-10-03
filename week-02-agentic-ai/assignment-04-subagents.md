@@ -54,7 +54,8 @@ The inherit setting allows the tf-writer agent to use the model selected by the 
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd72759f-1c67-4215-ae2c-5a7e3d1a43cd" />
+
 
 ---
 
