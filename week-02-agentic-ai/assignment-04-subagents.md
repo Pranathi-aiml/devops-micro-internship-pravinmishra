@@ -61,7 +61,8 @@ The inherit setting allows the tf-writer agent to use the model selected by the 
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7c83fee-dfa2-4ce4-9ab5-651c7b0e0647" />
+
 
 ---
 
