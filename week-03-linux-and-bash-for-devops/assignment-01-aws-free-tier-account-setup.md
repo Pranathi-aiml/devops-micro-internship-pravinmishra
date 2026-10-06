@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account gives us access to Amazon Web Services and its cloud services. It allows us to create and manage resources such as servers, storage, and databases. At this stage, we need an AWS account to practice cloud concepts and set up the EpicReads application on AWS.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier allows new AWS customers to use certain AWS services without paying, within specified usage limits. Some offers are available for 12 months after account creation, while some services have free usage that does not have the 12-month restriction. It helps beginners learn and experiment with AWS at little or no cost when they stay within the applicable limits.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon EC2 — Eligible new customers can receive up to 750 hours/month of certain eligible instances for up to 12 months.
+Amazon S3 — Eligible new customers can receive 5 GB of standard storage for up to 12 months.
+Amazon RDS — Eligible new customers can receive up to 750 hours/month of certain eligible database instances for up to 12 months..
 
 ---
 
