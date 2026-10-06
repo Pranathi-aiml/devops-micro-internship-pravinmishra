@@ -93,7 +93,8 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48e2e3d1-2411-4482-83d2-edbc01565b8b" />
+
 
 ---
 
@@ -102,14 +103,28 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+🚀 Week 2 Learning Journey | DevOps Micro Internship (DMI) Cohort 3
+I’m excited to share my Week 2 learning journey as part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI.
+This week, I explored several important Agentic AI and DevOps concepts, including:
+🔹 Claude Code
+🔹 MCP (Model Context Protocol)
+🔹 Hooks and Permissions
+🔹 Memory in Claude Code
+🔹 Safety controls for AI agents
+I learned how AI coding assistants can work with projects, connect with external tools, follow safety rules, and remember important project information across sessions.
+I also faced some challenges while working with different tools and commands. Troubleshooting those issues helped me improve my problem-solving skills, patience, and confidence in working with new technologies.
+One habit I plan to follow is documenting important commands, errors, and solutions so I can troubleshoot problems faster in future projects.
+Overall, Week 2 gave me valuable practical exposure to Agentic AI and DevOps, and I’m looking forward to learning and building more. 🚀
+📸 Sharing a screenshot from my Week 2 assignment as evidence of my progress.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://lnkd.in/geut5hbn). My graded progress is public: [https://lnkd.in/gAaaH-bD) · Start your DevOps journey: [https://lnkd.in/gpFcc6TY)
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/ga6JDWQi
 
 ---
 
