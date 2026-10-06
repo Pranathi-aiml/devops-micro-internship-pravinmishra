@@ -78,7 +78,8 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+<img width="1536" height="1024" alt="VS Code Memory File with Claude Chat" src="https://github.com/user-attachments/assets/90bd36b8-adcc-4031-b0d8-469a540f1fe5" />
+
 
 ---
 
