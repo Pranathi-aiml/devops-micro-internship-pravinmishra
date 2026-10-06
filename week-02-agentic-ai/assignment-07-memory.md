@@ -72,7 +72,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+<img width="1536" height="1024" alt="VS Code Memory Recall Mockup" src="https://github.com/user-attachments/assets/b20f3b54-3b2e-48df-adc5-24a98ed3ca79" />
 
 ---
 
