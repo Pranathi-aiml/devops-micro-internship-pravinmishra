@@ -96,7 +96,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-https://lnkd.in/p/gnAsNNxR
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-agenticai-claudecode-share-7513276062143815681-Y6ID/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
