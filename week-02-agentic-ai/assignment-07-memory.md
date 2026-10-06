@@ -104,7 +104,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/Pranathi-aiml/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
