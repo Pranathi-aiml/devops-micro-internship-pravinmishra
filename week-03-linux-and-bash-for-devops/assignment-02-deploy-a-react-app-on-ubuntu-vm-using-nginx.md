@@ -65,7 +65,8 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c595695-5f2e-495f-888e-2b178c4847a3" />
+
 
 ---
 
