@@ -137,7 +137,8 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6974de20-1120-4938-a159-945de5c6e617" />
+
 
 ---
 
