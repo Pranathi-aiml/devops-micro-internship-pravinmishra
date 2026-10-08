@@ -52,19 +52,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The sudo ss -tulpen output shows 0.0.0.0:80 in the LISTEN state, and the process is shown as nginx. This proves Nginx is listening for HTTP connections on port 80.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The sudo ss -tulpen output shows 0.0.0.0:22 in the LISTEN state, with the process shown as sshd. This proves SSH is active on port 22.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No, I did not find any unexpected open ports. The main listening ports were 22 for SSH and 80 for Nginx/HTTP. The other listed ports were used by normal system services such as DNS and time synchronization.
 
 ---
 
