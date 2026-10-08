@@ -293,19 +293,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The failure was caused by adding an invalid directive (THIS_IS_A_BROKEN_CONFIG) to the Nginx configuration file. Because Nginx did not recognize this directive, the configuration test failed.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I restored the previous working Nginx configuration from the backup file. Then I ran sudo nginx -t to verify that the configuration was correct before confirming the website was working again.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+Before applying any Nginx configuration changes, I would create a backup and run sudo nginx -t to check for syntax errors. Changes should be tested before restarting or reloading Nginx, and configuration files should be managed carefully using version control.
 
 ---
 
