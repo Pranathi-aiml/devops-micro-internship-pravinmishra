@@ -158,7 +158,8 @@ https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-aws-ec2-share-7
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7186eacd-35cd-478a-ac6a-37cbbd68c2d7" />
+
 
 ---
 
