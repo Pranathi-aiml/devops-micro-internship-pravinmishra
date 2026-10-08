@@ -401,13 +401,14 @@ Unused cloud resources can continue consuming money and may also create unnecess
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-aws-ec2-share-7513990535846531073-ajuB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ceffffe-38e4-440f-b935-e5f2bc75c90f" />
+
 
 ---
 
