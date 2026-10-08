@@ -254,7 +254,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirm the correct version by checking the deployed files in /var/www/html, verifying the application details such as the “Deployed by” text, and opening the website in the browser to make sure the latest changes are displayed correctly.
 
 ---
 
