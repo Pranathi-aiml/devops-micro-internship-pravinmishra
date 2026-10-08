@@ -337,19 +337,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the /var/www/html directory containing the deployed React application was temporarily moved. Nginx could not find the required website files, so it returned a 500 Internal Server Error.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the missing deployment directory back to /var/www/html. After restoring the files, I used curl -I to verify that the application was working again and received HTTP/1.1 200 OK.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would keep regular backups, avoid manually modifying or deleting production files, use version control and proper deployment procedures, and verify the deployment after every change using health checks such as curl. I would also maintain a rollback plan in case a deployment fails.
 
 ---
 
