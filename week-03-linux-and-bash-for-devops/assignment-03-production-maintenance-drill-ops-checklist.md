@@ -209,13 +209,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Disk is the most critical resource right now. The disk usage is 53%, while the CPU load is very low at 0.00. The server still has 3.2 GB available, so there is no immediate problem, but disk usage should be monitored as it increases over time.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full, the server may not be able to create or write new files. Logs, temporary files, application data, and updates may fail. This can cause Nginx or other services to malfunction and the website may become unavailable. Therefore, disk space should be monitored and cleaned up before it reaches 100%.
 
 ---
 
