@@ -151,19 +151,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No major errors were found during my check. The Nginx error log only showed a notice message about using inherited sockets, which is an informational message and not a failure. The Nginx service logs also showed that the service started and reloaded successfully.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that Nginx is running normally and there are no recent serious configuration or service errors. The web server appears to be functioning correctly.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, the HTTP requests were visible in the Nginx access log. The log showed requests such as GET / and requests for the JavaScript and CSS files, with successful 200 or 304 responses. This proves that traffic is reaching the EC2 server and Nginx is receiving and processing the requests.
 
 ---
 
