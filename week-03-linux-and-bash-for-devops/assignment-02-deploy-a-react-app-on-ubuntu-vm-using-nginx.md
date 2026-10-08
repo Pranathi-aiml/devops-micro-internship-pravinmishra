@@ -152,7 +152,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/g_ikK3wM
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-aws-ec2-share-7513938817951821824-4rfo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
