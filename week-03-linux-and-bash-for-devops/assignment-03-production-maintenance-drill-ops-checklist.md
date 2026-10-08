@@ -282,7 +282,8 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a118e6c5-d527-4592-bf8b-f6bef1ea5ca0" />
+
 
 ---
 
