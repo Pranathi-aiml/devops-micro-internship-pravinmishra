@@ -124,7 +124,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/ga6JDWQi
+https://www.linkedin.com/posts/pranathi-kummari-213641425_dmibypravinmishra-agenticai-claudecode-share-7513283169014452224-X2XW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
