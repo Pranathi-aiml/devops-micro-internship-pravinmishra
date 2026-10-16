@@ -20,13 +20,15 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+<img width="923" height="350" alt="image" src="https://github.com/user-attachments/assets/678f4e8d-830f-48e4-8a20-e02423a84373" />
+
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+<img width="887" height="255" alt="image" src="https://github.com/user-attachments/assets/a838b795-d704-4c2b-ab75-a499a9950927" />
+
 
 ---
 
@@ -36,19 +38,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The command systemctl is-active nginx displays active, confirming that the Nginx service is running.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+The command ss -ltn | grep ':80' shows whether a process is listening on port 80, which is the default HTTP port. A successful curl -I http://localhost response also confirms that the local HTTP request received a response.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline records the server's normal condition. We can compare it with the incident results to identify what changed and verify that recovery restored the service.
 
 ---
 
