@@ -197,7 +197,7 @@ Arrays are useful because they let us store and manage multiple values together.
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop is used to go through each element in the tools array one by one and print each tool as a checklist item. It avoids writing a separate echo command for every tool.
 
 ---
 
