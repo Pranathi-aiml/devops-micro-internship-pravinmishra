@@ -286,27 +286,22 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
+-d checks whether a directory exists at the given path.
 
----
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+-f checks whether a regular file exists at the given path.
 
----
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Storing paths in variables makes the script easier to read, update, and reuse.
 
----
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
-
----
+If the file does not exist, the -f condition returns false, and the script executes the else block if one is provided.
 
 # Task 7 — Conditionals: Pass or Retry Script
 
