@@ -229,25 +229,25 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+A loop is a programming structure that repeats a set of instructions multiple times until a condition is met or the loop finishes.
 
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+We use loops to repeat tasks automatically without writing the same commands again and again. This makes scripts shorter, easier to read, and more efficient.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran 10 times, counting from 1 to 10.
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+In my script, the loop already runs 10 times because the condition is i<=10. If I wanted to change the number of repetitions, I would modify the loop condition.
 
 ---
 
