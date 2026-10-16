@@ -20,7 +20,8 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/611b0d1f-9c3e-4655-974b-f601c485d200" />
+
 
 ---
 
