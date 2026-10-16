@@ -345,25 +345,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+The if-else statement helps a script make decisions based on whether a condition is true or false.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge means “greater than or equal to.” For example, [ "$score" -ge 60 ] checks whether the score is at least 60.
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+Testing different values helps us check whether the script produces the correct result in different situations.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Conditionals help automation scripts make decisions automatically, such as checking files, validating scores, and deciding whether to continue or stop a task.
 
 ---
 
