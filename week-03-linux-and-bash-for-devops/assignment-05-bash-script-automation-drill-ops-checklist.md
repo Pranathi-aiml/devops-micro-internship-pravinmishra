@@ -38,19 +38,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash stands for Bourne Again Shell. It is a command-line interpreter that allows us to interact with the operating system by typing commands. It can also execute scripts to automate repetitive tasks.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a general program that accepts commands from users and communicates with the operating system. Bash is one specific type of shell. Other examples of shells include Zsh, Fish, and Dash.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Checking the Bash version helps us confirm that the required features and commands are supported. Different versions may support different features, so checking the version helps avoid compatibility problems and script errors.
 
 ---
 
