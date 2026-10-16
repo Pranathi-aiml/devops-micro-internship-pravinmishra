@@ -117,7 +117,8 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca88e358-e144-4f2c-bd4e-ffa092c9744a" />
+
 
 ---
 
