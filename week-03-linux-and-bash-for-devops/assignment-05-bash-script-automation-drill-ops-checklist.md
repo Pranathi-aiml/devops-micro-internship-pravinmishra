@@ -268,13 +268,15 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+<img width="685" height="491" alt="image" src="https://github.com/user-attachments/assets/4130754a-168d-4f01-b0ff-7553b01f66be" />
+
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+<img width="912" height="157" alt="image" src="https://github.com/user-attachments/assets/5416fb8b-3bef-48ac-8314-22a173d6c385" />
+
 
 ---
 
