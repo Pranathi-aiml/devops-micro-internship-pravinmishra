@@ -135,19 +135,19 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable in Bash is a named storage location used to store data such as text, numbers, or other values. For example, name="Pranathi" stores the text Pranathi in the variable name.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+Bash does not allow spaces around the = sign when assigning a value to a variable. For example, name="Pranathi" is correct, but name = "Pranathi" is incorrect because Bash treats the parts as separate commands or arguments.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+We use the $ symbol followed by the variable name to access its value. For example, if we write name="Pranathi", then echo "$name" displays Pranathi.
 
 ---
 
