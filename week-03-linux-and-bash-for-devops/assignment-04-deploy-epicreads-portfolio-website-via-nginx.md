@@ -87,7 +87,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84c921cd-baac-46c4-86bc-5a039d5ff7d9" />
+
 
 ---
 
