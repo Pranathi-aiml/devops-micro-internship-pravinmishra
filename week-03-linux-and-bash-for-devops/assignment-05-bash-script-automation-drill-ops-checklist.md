@@ -432,13 +432,15 @@ The script uses variables to store information, an array to store DevOps tool na
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-bashscripting-linux-share-7516810220694798336--2t2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ac2099c-ed71-466d-adea-ef660839f78c" />
+
 
 ---
 
