@@ -259,13 +259,14 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="1130" height="722" alt="image" src="https://github.com/user-attachments/assets/4cbaf358-42c8-4595-b203-17a858b48a76" />
+
 
 ---
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
-Add your screenshot here.
+
 
 ---
 
