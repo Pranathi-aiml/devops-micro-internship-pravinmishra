@@ -277,25 +277,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+Bash, Read, and Grep allow the skill to inspect the system and run the existing health-check script. Write is not needed because the skill should not create or modify files.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+It prevents Claude from automatically invoking the skill. The skill runs only when I manually request /linux-triage, giving me more control over when the health check is performed.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash runs the Linux triage script and collects the actual server information. Claude reads those results, summarizes the health status, and explains any problems.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+Because the skill gives Claude real server evidence from the health-check script. This makes the answer based on actual CPU, memory, disk, Nginx, port, and website checks instead of Claude guessing.
 
 ---
 
