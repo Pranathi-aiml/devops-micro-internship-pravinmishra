@@ -508,7 +508,7 @@ https://www.linkedin.com/posts/pranathi-kummari-213641425_linux-nginx-bash-share
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-
+https://github.com/Pranathi-aiml/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
