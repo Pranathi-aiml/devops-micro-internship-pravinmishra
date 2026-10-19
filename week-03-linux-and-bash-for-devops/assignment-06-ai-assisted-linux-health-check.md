@@ -386,13 +386,15 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="887" height="212" alt="image" src="https://github.com/user-attachments/assets/78398d1f-9d76-4383-8750-9952147d2c21" />
+
 
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1360" height="715" alt="image" src="https://github.com/user-attachments/assets/0477d029-784d-4fed-ab5e-afb5b27bfde6" />
+
 
 ---
 
@@ -402,31 +404,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually restarted the Nginx service using sudo systemctl start nginx.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+Nginx showed an active status, curl -I http://localhost returned HTTP/1.1 200 OK, and the second triage reported 7 passed, 0 failed, Overall: PASS.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run confirms that the recovery actually worked and that all important health checks are passing again.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+It could restart the wrong service, interrupt an important application, hide the real problem, or cause unexpected system changes without human approval.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot mainly provides answers, while an agentic workflow uses evidence, reasoning, controlled actions, and verification to solve a real problem safely.
 
 ---
 
@@ -434,51 +436,52 @@ Add your answer here.
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Kummari Pranathi
 
-**Date:** DD/MM/YYYY
+**Date:** 19/10/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The Nginx service was unavailable, and HTTP requests to the local website failed because port 80 was not listening.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The triage report showed Nginx: FAIL - not running and Ports: FAIL - HTTP port 80 is not listening. The local curl request also failed during the incident.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The Nginx service was inactive because it had been intentionally stopped to simulate the incident.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+I manually restarted Nginx using:
+sudo systemctl start nginx
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+After recovery, Nginx was active, curl -I http://localhost returned HTTP 200 OK, and the second triage showed 7 passed, 0 failed.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI did not automatically restart Nginx. The recovery action was performed manually by the human operator after reviewing the evidence.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+The Bash script observed the system and collected evidence, Claude reasoned about the likely cause, the human acted to recover the service, and the second triage verified the result.
 
 ---
 
