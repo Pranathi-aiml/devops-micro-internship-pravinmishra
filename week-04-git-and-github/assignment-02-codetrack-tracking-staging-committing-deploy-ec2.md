@@ -119,25 +119,29 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+<img width="1622" height="842" alt="image" src="https://github.com/user-attachments/assets/ea2a9869-6ec9-45e2-8610-2da81cc72290" />
+
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="810" height="282" alt="image" src="https://github.com/user-attachments/assets/d4df8331-e8f0-4c03-98b0-53d281d564e6" />
+
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+<img width="897" height="150" alt="image" src="https://github.com/user-attachments/assets/7c682a6e-b1e3-4a2f-9ddc-e4b459cbc680" />
+
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="822" height="88" alt="image" src="https://github.com/user-attachments/assets/b67fbf92-d24f-4890-bd35-36c7ea7a350b" />
+
 
 ---
 
