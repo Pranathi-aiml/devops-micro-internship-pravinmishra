@@ -64,7 +64,8 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/269860ef-324b-40e8-a968-c8f58bc5ac6d" />
+
 
 
 ---
@@ -75,19 +76,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should know the project's specific rules so it understands how the system works, what actions are safe, and what it should avoid. This helps Claude give accurate and safe suggestions.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human must execute the recovery command because it can affect the server or production environment. Human approval prevents Claude from making risky changes automatically.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The Output Rules prevent unsupported diagnosis because they require Claude to report the actual error instead of guessing when an error occurs.
 
 ---
 
