@@ -155,13 +155,15 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+<img width="1462" height="395" alt="image" src="https://github.com/user-attachments/assets/aca38a38-8c9b-48ad-9eae-5d8e857c3aac" />
+
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+<img width="591" height="273" alt="image" src="https://github.com/user-attachments/assets/741ad795-4081-429f-807f-07c56270c09b" />
+
 
 ---
 
