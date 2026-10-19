@@ -372,13 +372,15 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-Add your screenshot here.
+<img width="731" height="88" alt="image" src="https://github.com/user-attachments/assets/54de4743-3724-4a78-8fe9-c0bc5e4d17d5" />
+
 
 ---
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-Add your screenshot here.
+<img width="731" height="711" alt="image" src="https://github.com/user-attachments/assets/d4f90835-7394-4274-bd37-95c5e354887e" />
+
 
 ---
 
