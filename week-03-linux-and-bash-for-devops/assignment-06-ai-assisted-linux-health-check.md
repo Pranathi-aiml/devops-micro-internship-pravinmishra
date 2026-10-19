@@ -171,31 +171,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of all the health checks the script needs to perform, such as OS, Nginx, Disk, Memory, CPU, Ports, and Website.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each item in the checks array one by one and runs the corresponding health-check function for each item.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Each function handles one specific check. This makes the script easier to read, test, maintain, and modify without affecting other checks.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) runs a command and puts its output into the script. It is called command substitution.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes allow the operating system or automation tools to understand the result of the script. A successful check can return 0, while a problem can return a non-zero value, making it easier to detect failures automatically.
 
 ---
 
