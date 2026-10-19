@@ -493,13 +493,14 @@ The Bash script observed the system and collected evidence, Claude reasoned abou
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/pranathi-kummari-213641425_linux-nginx-bash-share-7517936553697054720-0PAJ/
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1853" height="898" alt="image" src="https://github.com/user-attachments/assets/3b59ea4a-3a21-461c-9950-fe8452ed929e" />
+
 
 ---
 
@@ -507,7 +508,7 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+
 
 ---
 
