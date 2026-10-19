@@ -322,7 +322,8 @@ Add your screenshot here.
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-Add your screenshot here.
+<img width="968" height="712" alt="image" src="https://github.com/user-attachments/assets/f79ce91e-39b8-4149-b7f5-d3d05156adbe" />
+
 
 ---
 
