@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics |✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-devopsinternship-dmi-activity-7505878392832094208-yQ-0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0|https://medium.com/@kummari.pranathi123/week-00-internet-and-networking-my-devops-learning-journey-e4b7ad30cbbc|
 | 01 | Success Mindset | ✅ Completed |✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-activity-7505920813414395905-jBtp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0 | https://medium.com/@kummari.pranathi123/week-01-success-mindset-building-my-mindset-os-c08c024e12f7|
 | 02 | Agentic AI with Claude Code |✅ Completed | ✅ Solved |https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-agenticai-claudecode-share-7511836412107751424-9LGH/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGvFY-8BHygXK5EkHCp2QWk-eDvXi6Zgzt0 |https://medium.com/@kummari.pranathi123/reflection-week-2-b00dfedbd627 |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps |✅ Completed| ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-agenticai-linux-share-7517940830754496512-USbe/ | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
