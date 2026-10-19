@@ -316,7 +316,8 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae79713c-02a5-4571-9714-f4a528fe38a1" />
+
 
 ---
 
@@ -333,31 +334,30 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The three failed checks were Nginx, Ports, and Website.
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The Nginx check showed “FAIL - not running”, HTTP port 80 was not listening, and curl http://localhost failed to connect.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
-
+No. Claude only identified the problem and suggested sudo systemctl start nginx. This is important because the recovery action should be performed manually and safely instead of allowing the diagnostic workflow to change the system automatically.
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Bash report represents the Observe/Inspect phase of the Agentic Loop because it collects real system evidence and reports the current health state before any action is taken.
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Think/Reason phase of the Agentic Loop because it analyzes the collected evidence, identifies the likely cause, and suggests the appropriate recovery action.
 
 ---
 
