@@ -113,19 +113,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the five read-only environment checks. Claude inspected the operating system, Nginx status, Nginx configuration, website files, and ports/connectivity before making any changes.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes. Claude only inspected the environment and created a deployment plan. I verified that no files were created or modified and that no services were started or stopped.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning before coding helps us understand the current system first. It reduces mistakes, avoids unnecessary changes, and makes the automation safer and easier to execute.
 
 ---
 
