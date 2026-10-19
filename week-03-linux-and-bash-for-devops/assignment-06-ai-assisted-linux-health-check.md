@@ -227,25 +227,25 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status is HEALTHY. All 7 checks passed, including Nginx, disk, memory, CPU, ports, and website availability.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The evidence is HTTP port 80 is listening and the website check found /var/www/html/index.html. This shows that Nginx is running and the website is available.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because all 7 health checks passed and there were no failures.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning means a health value may be approaching a threshold and needs attention, while a failure means a required check did not pass. A failure causes the script to return a non-zero exit code.
 
 ---
 
