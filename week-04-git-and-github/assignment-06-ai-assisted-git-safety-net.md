@@ -27,7 +27,8 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+<img width="907" height="245" alt="image" src="https://github.com/user-attachments/assets/d33fc638-6c71-40d4-8cd8-7fd5d9fb57dd" />
+
 
 ---
 
@@ -35,7 +36,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated feature branch keeps assignment changes separate from the main branch. It allows me to develop and test the Git pre-commit safety hook and restricted Claude Code skill without affecting stable code. After testing, the changes can be reviewed and merged through a Pull Request.
 
 ---
 
