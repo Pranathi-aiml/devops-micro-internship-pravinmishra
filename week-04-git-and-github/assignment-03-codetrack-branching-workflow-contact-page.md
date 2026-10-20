@@ -110,13 +110,15 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+<img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/715cb7e9-bd57-4a8c-b9f2-bf8109206294" />
+
 
 ---
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+<img width="1220" height="755" alt="image" src="https://github.com/user-attachments/assets/7b2b7c39-0e9c-47f5-8528-45cd732a4dd7" />
+
 
 ---
 
