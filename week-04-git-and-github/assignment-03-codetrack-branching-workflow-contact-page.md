@@ -51,19 +51,22 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+<img width="777" height="290" alt="image" src="https://github.com/user-attachments/assets/f617ed45-b6ab-41aa-b427-851e617e88fe" />
+
 
 ---
 
 #### Screenshot 4 — Output of `git commit`
 
-Add your screenshot here.
+<img width="827" height="171" alt="image" src="https://github.com/user-attachments/assets/4ec582b5-d39a-4caf-85cf-a34f7ea0966d" />
+
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
+<img width="826" height="152" alt="image" src="https://github.com/user-attachments/assets/831a2e92-4be5-4b82-af69-49eada27c81b" />
+
 
 ---
 
