@@ -94,7 +94,8 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-<img width="1680" height="896" alt="Screenshot 2026-10-20 133550" src="https://github.com/user-attachments/assets/115a80f6-ab99-4e37-8b10-e9e529cf7437" />
+<img width="1378" height="852" alt="image" src="https://github.com/user-attachments/assets/c097f729-2880-4bde-a6bf-2acb3e632736" />
+
 
 
 ---
