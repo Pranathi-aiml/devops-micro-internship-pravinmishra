@@ -92,13 +92,17 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-Add your screenshot here.
+
+<img width="1037" height="320" alt="image" src="https://github.com/user-attachments/assets/b84fbc40-d7e2-4f0f-a8aa-1d84c83e0371" />
+
 
 ---
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e70e578c-064f-49f9-ac90-50b5fc38063a" />
+
 
 ---
 
