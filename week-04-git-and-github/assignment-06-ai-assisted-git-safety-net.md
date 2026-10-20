@@ -50,7 +50,8 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="683" height="195" alt="image" src="https://github.com/user-attachments/assets/ed54fae2-e9da-44b9-b2d8-d3d05be64ded" />
+
 
 ---
 
@@ -58,7 +59,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+This assignment uses an obviously fake key to safely test the pre-commit hook without exposing real credentials. Real API keys or passwords could be stolen or misused if committed to a Git repository. A fake key allows me to verify that the safety check detects secret-like patterns without risking sensitive information.
 
 ---
 
