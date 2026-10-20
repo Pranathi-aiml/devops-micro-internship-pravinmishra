@@ -165,7 +165,9 @@ Display the repository history as a graph and locate both feature commits.
 
 #### Screenshot 14 — Full output of `git log --oneline --graph --decorate --all`
 
-Add your screenshot here.
+
+<img width="822" height="297" alt="image" src="https://github.com/user-attachments/assets/73984c6a-b3f5-4af7-9a1f-0e2d89de260e" />
+
 
 ---
 
