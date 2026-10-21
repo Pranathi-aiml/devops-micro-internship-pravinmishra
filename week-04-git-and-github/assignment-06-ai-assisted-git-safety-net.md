@@ -139,13 +139,15 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15008012-52fb-4eda-94d1-f66b5abac8fe" />
+
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+<img width="1405" height="436" alt="image" src="https://github.com/user-attachments/assets/73aa89df-6244-4b5b-b14b-8272e4fb9fb6" />
+
 
 ---
 
@@ -153,13 +155,13 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+Bash allows /pr-ready to run read-only Git commands, such as git status and git diff --cached, to inspect staged changes. Read allows it to read files, and Grep helps search for suspicious patterns. Write is excluded because the skill should only review changes and generate a report and draft PR description. It must not modify files, ensuring the review is safe and read-only.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+Both were designed to detect the fake API key and debug statement in README.md. The pre-commit hook successfully detected the possible secret and blocked the commit. The /pr-ready skill was intended to provide a broader review, including debug statements, potential bugs, whitespace issues, and PR readiness. However, because Claude Code returned an API error, /pr-ready did not complete its review, so I could not confirm which additional issues it would have caught.
 
 ---
 
