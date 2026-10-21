@@ -109,7 +109,8 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+<img width="912" height="116" alt="image" src="https://github.com/user-attachments/assets/c1e3f866-2238-4da5-8c5b-dabf3a55f3e1" />
+
 
 ---
 
@@ -117,13 +118,14 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+'(API_KEY|SECRET_KEY|PASSWORD|ACCESS_TOKEN)[[:space:]]*=[[:space:]]*["'\''][^"'\'']+["'\'']'
+It matched API_KEY = "FAKE_TEST_KEY_123456789" because the variable name API_KEY is in the pattern, followed by an equals sign and a non-empty value inside quotes. Therefore, the hook detected a possible secret and blocked the commit.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No, not necessarily. The hook checks only for specific variable names such as API_KEY, SECRET_KEY, PASSWORD, and ACCESS_TOKEN. A secret stored in a poorly named variable might bypass this rule, even if it does not have the AKIA prefix. This shows that fixed rules have limitations and cannot detect every secret. More advanced secret-scanning tools and code reviews can help catch additional cases.
 
 ---
 
