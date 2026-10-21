@@ -73,13 +73,15 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bef8960a-3544-47a1-a76e-8cb169b62bec" />
+
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+<img width="817" height="216" alt="image" src="https://github.com/user-attachments/assets/9059c6e9-c535-4efe-8efc-54319e50678b" />
+
 
 ---
 
@@ -87,13 +89,13 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+hooks/pre-commit is tracked in the repository so it can be shared with other developers and version-controlled. Files inside .git/hooks/ are local to one developer's computer and are not shared when the repository is cloned. Keeping the hook in the repository makes it easier for everyone to use and maintain the same safety checks.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+A Git pre-commit hook intercepts a Git commit before it is created and can block it if staged files contain secret-like patterns or files larger than 1 MB. The PreToolUse hook intercepts a tool call made by the AI agent before the tool executes and can block unsafe actions.
 
 ---
 
