@@ -207,13 +207,14 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45777dd4-d9c7-4849-87c8-f98ad2ca8910" />
+
 
 ---
 
 #### PR Link
 
-Add your PR URL here...
+https://github.com/Pranathi-aiml/devops-micro-internship-interviews/pull/1
 
 ---
 
@@ -221,19 +222,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I edited the AI's draft to make the summary, validation steps, and notes match my actual changes. I included the pre-commit safety hook and the pr-ready skill, and clarified that the automated /pr-ready report was not successfully generated, so the description was reviewed manually. This keeps the PR description accurate and honest.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+The AI might include incorrect claims, miss security risks, or describe changes that were not actually made or tested. This could mislead reviewers and reduce trust in the project. Therefore, I reviewed the title and description before creating the Pull Request.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+This PR contains my personal practice work for the DevOps Micro Internship, including the pre-commit hook and the pr-ready skill. Targeting my own fork keeps these changes separate from the shared class repository and avoids submitting practice changes directly to the upstream project without permission.
 
 ---
 
@@ -247,31 +248,31 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+Gather is the step where I collect information about the repository and staged changes using commands such as git status --short and git diff --cached. The pre-commit hook also gathers staged file content to check for possible secrets and files larger than 1 MB.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+Analyze happens when the pre-commit hook checks staged files against fixed rules and when the pr-ready AI skill reviews the changes for possible secrets, bugs, missing tests, and other risks. The AI skill then produces a readiness verdict and drafts the PR title and description.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+Human Act is the step where I review the AI's findings, edit the PR description, run git commit and git push, and open the Pull Request. A human must control these actions because they can change repository history, publish code, and create a real review request. Human approval helps prevent unintended or unsafe changes.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Verify is the step where I check whether the pre-commit hook blocks suspicious content, confirm that the hook passes after removing the test content, run git diff --cached --check, and inspect the GitHub Pull Request to confirm the correct repository, branches, title, and description.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+The pre-commit hook enforces specific rules consistently, such as detecting secret-like patterns and files larger than 1 MB, while the AI skill can reason about broader issues such as bugs, incomplete changes, and missing tests. Both are needed because fixed rules are predictable but limited, whereas AI review is flexible but can miss issues or make mistakes.
 
 ---
 
