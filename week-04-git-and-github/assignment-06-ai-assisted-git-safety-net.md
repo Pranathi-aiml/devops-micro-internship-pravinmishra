@@ -182,7 +182,8 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="1363" height="880" alt="download (1)2" src="https://github.com/user-attachments/assets/5494bded-c240-4c7a-8d2f-d3e4e4637d76" />
+
 
 ---
 
@@ -190,7 +191,7 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake API key (API_KEY = "FAKE_TEST_KEY_123456789"), the temporary debug statement (print("DEBUG: temporary diagnostic output")), and the temporary safety-hook test comment from README.md. Then I staged the cleaned file again and retried the commit. The pre-commit hook passed, and the commit was successful.
 
 ---
 
