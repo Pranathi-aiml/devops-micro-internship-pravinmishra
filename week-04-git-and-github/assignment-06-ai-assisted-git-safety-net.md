@@ -286,7 +286,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-git-github-share-7518914231069495296-jf8E/
 
 ---
 
@@ -294,9 +294,11 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+Learned to create a pre-commit hook that checks for secret-like patterns and files larger than 1 MB.
+Learned how an AI skill can review staged changes and draft a PR description.
+Understood that fixed-rule checks and AI review have different strengths and limitations.
+Learned to review AI-generated content critically instead of blindly trusting it.
+Practiced committing and pushing changes to my own GitHub fork and creating a Pull Request.
 
 ---
 
@@ -316,7 +318,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/Pranathi-aiml/devops-micro-internship-interviews?utm_source=chatgpt.com
 
 ---
 
