@@ -175,7 +175,8 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+<img width="891" height="195" alt="Screenshot 2026-10-22 090131" src="https://github.com/user-attachments/assets/f5009b06-5b2e-492f-9ce4-3aa34c22a8ac" />
+
 
 ---
 
