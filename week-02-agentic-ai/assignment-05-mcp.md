@@ -80,7 +80,8 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/da020e05-b427-4311-9657-c9321e241957" />
+
 
 ---
 
@@ -98,7 +99,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/Pranathi-aiml/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
