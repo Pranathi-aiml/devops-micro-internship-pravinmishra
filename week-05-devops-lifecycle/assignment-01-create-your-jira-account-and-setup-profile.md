@@ -80,7 +80,8 @@ Add your screenshot here.
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+![Uploading image.png…]()
+
 
 ---
 
