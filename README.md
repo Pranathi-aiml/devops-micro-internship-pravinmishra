@@ -134,7 +134,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed |✅ Solved |https://www.linkedin.com/posts/pranathi-kummari-213641425_dmi-devops-agenticai-share-7505920810704961536-P23P/ | https://medium.com/@kummari.pranathi123/week-01-success-mindset-building-my-mindset-os-c08c024e12f7|
 | 02 | Agentic AI with Claude Code |✅ Completed | ✅ Solved |https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-agenticai-claudecode-share-7511836412107751424-9LGH/|https://medium.com/@kummari.pranathi123/reflection-week-2-b00dfedbd627?postPublishedType=repub |
 | 03 | Linux & Bash for DevOps |✅ Completed| ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-agenticai-linux-share-7517940830754496512-USbe/ |https://medium.com/@kummari.pranathi123/week-3-completed-devops-micro-internship-with-agentic-ai-dmi-cohort-3-fb5d4248083d?postPublishedType=repub|
-| 04 | Git & GitHub | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-git-github-share-7518916385213890560-tnGi/ | https://medium.com/@kummari.pranathi123/week-4-building-an-ai-assisted-git-safety-net-with-git-hooks-and-claude-code-2ff7088912b6 |
+| 04 | Git & GitHub | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/pranathi-kummari-213641425_devops-git-github-share-7518916385213890560-tnGi/ |https://medium.com/@kummari.pranathi123/week-4-building-an-ai-assisted-git-safety-net-with-git-hooks-and-claude-code-2ff7088912b6?postPublishedType=repub |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
