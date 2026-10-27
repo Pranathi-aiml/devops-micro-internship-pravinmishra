@@ -50,13 +50,15 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 3 — Backlog showing the Epic and all six Stories under it
 
-Add your screenshot here.
+<img width="1840" height="445" alt="image" src="https://github.com/user-attachments/assets/753533b9-6151-411a-9060-452416f44f6d" />
+
 
 ---
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-Add your screenshot here.
+<img width="1897" height="821" alt="image" src="https://github.com/user-attachments/assets/4d697041-ba33-420d-8f21-a321a9525add" />
+
 
 ---
 
